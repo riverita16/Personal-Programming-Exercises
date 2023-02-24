@@ -1,4 +1,4 @@
-# Basic-Programming-Exercises
+# Personal-Programming-Exercises
 Some basic implementations of fundamentals and some personal practice projects
 
 **LinkedList.h** - header file for templated doubly linked list in C++ <br />
